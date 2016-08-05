@@ -1019,3 +1019,16 @@ footer {
     width: auto;
   }
 }
+
+.button {
+  background-color: #555555;
+  font-size: 12px;
+  border-radius: 50%;
+  border: 2px solid #555555;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.button:hover {
+  background-color: white;
+}
