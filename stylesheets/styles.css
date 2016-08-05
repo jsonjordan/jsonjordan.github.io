@@ -1021,7 +1021,7 @@ footer {
 }
 
 .linkbutton1 {
-  background-color: #179df6;
+  background: url(../images/background.png) #179df6;
   font-size: 24px;
   border-radius: 40%;
   border: 2px solid #179df6;
