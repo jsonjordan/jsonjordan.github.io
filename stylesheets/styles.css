@@ -740,6 +740,8 @@ header p {
 }
 #banner .span {
   display: inline;
+  padding: 10px 12px;
+  margin-top: 6px;
 }
 #banner .button:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
