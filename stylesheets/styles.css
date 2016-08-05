@@ -1023,6 +1023,7 @@ footer {
 .linkbutton1 {
   background: url(../images/background.png) #179df6;
   font-size: 24px;
+  color: white;
   border-radius: 45%;
   -webkit-transition-duration: 0.4s;
   transition-duration: 0.4s;
@@ -1032,10 +1033,12 @@ footer {
   background: solid #d0cfce;
   background-color: #d0cfce;
   border: 2px solid #179df6;
+  color: #179df6;
 }
 .linkbutton2 {
   background-color: #17ca8f;
   font-size: 24px;
+  color: white;
   border-radius: 45%;
   -webkit-transition-duration: 0.4s;
   transition-duration: 0.4s;
@@ -1044,10 +1047,12 @@ footer {
 .linkbutton2:hover {
   background-color: #d0cfce;
   border: 2px solid #17ca8f;
+  color: #17ca8f;
 }
 .linkbutton3 {
   background-color: #17f628;
   font-size: 24px;
+  color: white;
   border-radius: 45%;
   -webkit-transition-duration: 0.4s;
   transition-duration: 0.4s;
@@ -1056,4 +1061,5 @@ footer {
 .linkbutton3:hover {
   background-color: #d0cfce;
   border: 2px solid #17f628;
+  color: #17f628;
 }
