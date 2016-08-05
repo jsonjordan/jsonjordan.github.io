@@ -565,7 +565,7 @@ strong {
 }
 
 .wrapper {
-  width: 650px;
+  width: 1000px;
   margin: 0 auto;
   position: relative;
 }
@@ -653,7 +653,7 @@ dt {
 header {
   padding: 25px 20px 40px 20px;
   margin: 0;
-  position: fixed;
+  position: absolute;
   top: 0;
   left: 0;
   right: 0;
@@ -693,7 +693,7 @@ header p {
   right: 50%;
   height: 50px;
   margin-right: -382px;
-  position: fixed;
+  position: absolute;
   top: 115px;
   background: #17f628;
   -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
@@ -740,7 +740,7 @@ header p {
 #banner .social {
   display: inline-block;
   margin-left: 5px;
-  padding: 10px 12px;
+  padding: 8px 12px;
   margin-top: 0px;
   line-height: 14px;
 }
@@ -803,7 +803,7 @@ header p {
 }
 
 section {
-  width: 590px;
+  width: 950px;
   padding: 30px 30px 50px 30px;
   margin: 20px 0;
   margin-top: 190px;
@@ -862,13 +862,14 @@ nav ul a:hover {
 }
 
 footer {
-  width: 180px;
-  position: fixed;
+  width: 1000px;
+  position: absolute;
   left: 50%;
   margin-left: -530px;
   bottom: 20px;
   text-align: right;
   line-height: 16px;
+
 }
 
 @media print, screen and (max-width: 1060px) {
@@ -913,7 +914,7 @@ footer {
   footer {
     text-align: center;
     margin: 20px auto;
-    position: relative;
+    position: fixed;
     left: auto;
     bottom: auto;
     width: auto;
@@ -1070,23 +1071,47 @@ footer {
 }
 
 .element1 {
-  width: 200px;
+  width: 300px;
   display:inline-block;
-  margin-top: 0px;
+  margin-top: 50px;
+  vertical-align: top;
 
 }
 
 .element2 {
   width: 400px;
   display:inline-block;
+  margin-top: 50px;
+  text-align: left;
 
 }
 
-.container {
-  width: 650px;
+.container1 {
+  width: 950px;
+  display:inline-block;
+  height: 400px;
+  text-align: center;
+  vertical-align: top;
+}
+
+.container2 {
+  width: 950px;
+  display:inline-block;
+  height: 720px;
+  text-align: center;
+  vertical-align: top;
 }
 
 .linklist {
   width: 200px;
   text-align: center;
+}
+
+.project {
+  width: 300px;
+  height: 700px;
+  display:inline-block;
+  border: 2px solid black;
+  text-align: center;
+  vertical-align: top;
 }
