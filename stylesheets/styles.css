@@ -745,6 +745,10 @@ header p {
   margin-top: 1px;
   line-height: 14px;
 }
+#banner #contacts {
+  position: absolute;
+  right: 20px;
+}
 #banner .button:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
   background: -webkit-linear-gradient(#ffe788, #ffe788);
