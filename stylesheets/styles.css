@@ -739,9 +739,11 @@ header p {
   text-align: center;
 }
 #banner .social {
-  display: inline;
+  display: inline-block;
   padding: 10px 12px;
   margin-top: 6px;
+  line-height: 14px;
+  font-size: 14px;
 }
 #banner .button:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
