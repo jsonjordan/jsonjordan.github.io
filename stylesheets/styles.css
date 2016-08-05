@@ -1023,37 +1023,37 @@ footer {
 .linkbutton1 {
   background: url(../images/background.png) #179df6;
   font-size: 24px;
-  border-radius: 40%;
-  border: 2px url(../images/background.png) #179df6;
+  border-radius: 45%;
   -webkit-transition-duration: 0.4s;
   transition-duration: 0.4s;
 }
 
 .linkbutton1:hover {
-  background: ;
+  background: solid #d0cfce;
   background-color: #d0cfce;
+  border: 2px solid #179df6;
 }
 .linkbutton2 {
   background-color: #17ca8f;
   font-size: 24px;
-  border-radius: 40%;
-  border: 2px solid #17ca8f;
+  border-radius: 45%;
   -webkit-transition-duration: 0.4s;
   transition-duration: 0.4s;
 }
 
 .linkbutton2:hover {
   background-color: #d0cfce;
+  border: 2px solid #17ca8f;
 }
 .linkbutton3 {
   background-color: #17f628;
   font-size: 24px;
-  border-radius: 40%;
-  border: 2px solid #17f628;
+  border-radius: 45%;
   -webkit-transition-duration: 0.4s;
   transition-duration: 0.4s;
 }
 
 .linkbutton3:hover {
   background-color: #d0cfce;
+  border: 2px solid #17f628;
 }
