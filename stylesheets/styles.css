@@ -1020,7 +1020,7 @@ footer {
   }
 }
 
-#linkbuttons {
+.linkbuttons {
   background-color: #555555;
   font-size: 12px;
   border-radius: 50%;
@@ -1029,6 +1029,6 @@ footer {
   transition-duration: 0.4s;
 }
 
-#linkbuttons:hover {
+.linkbuttons:hover {
   background-color: white;
 }
