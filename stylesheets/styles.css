@@ -565,7 +565,7 @@ strong {
 }
 
 .wrapper {
-  width: 1000px;
+  width: 95%;
   margin: 0 auto;
   position: relative;
 }
@@ -803,7 +803,7 @@ header p {
 }
 
 section {
-  width: 950px;
+  width: 95%;
   padding: 30px 30px 50px 30px;
   margin: 20px 0;
   margin-top: 190px;
@@ -1076,7 +1076,7 @@ button:focus {
 }
 
 .element1 {
-  width: 300px;
+  width: 40%;
   display:inline-block;
   margin-top: 50px;
   vertical-align: top;
@@ -1084,7 +1084,7 @@ button:focus {
 }
 
 .element2 {
-  width: 400px;
+  width: 40%;
   display:inline-block;
   margin-top: 50px;
   text-align: left;
@@ -1092,7 +1092,7 @@ button:focus {
 }
 
 .container1 {
-  width: 950px;
+  width: 95%;
   display:inline-block;
   height: 400px;
   text-align: center;
@@ -1100,7 +1100,7 @@ button:focus {
 }
 
 .container2 {
-  width: 950px;
+  width: 100%;
   display:inline-block;
   height: 720px;
   text-align: center;
@@ -1108,16 +1108,17 @@ button:focus {
 }
 
 .linklist {
-  width: 200px;
+  width: 50%;
   text-align: center;
 }
 
 .project {
-  width: 300px;
+  width: 30%;
   height: 700px;
   display:inline-block;
   border: 2px solid black;
   text-align: center;
   vertical-align: top;
   border-radius: 12px;
+
 }
