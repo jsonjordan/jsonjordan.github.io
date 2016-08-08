@@ -1114,4 +1114,5 @@ footer {
   border: 2px solid black;
   text-align: center;
   vertical-align: top;
+  border-radius: 12px;
 }
