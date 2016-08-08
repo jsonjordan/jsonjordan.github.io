@@ -1043,6 +1043,22 @@ button:focus {
   color: #5a7ec5;
 }
 .linkbutton2 {
+  background-color: #39a4aa;
+  font-size: 24px;
+  padding: 5px 10px;
+  color: white;
+  border: 2px solid #39a4aa;
+  border-radius: 50%;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.linkbutton2:hover {
+  background-color: white;
+  border: 2px solid #39a4aa;
+  color: #39a4aa;
+}
+.linkbutton3 {
   background-color: #17ca8f;
   font-size: 24px;
   padding: 5px 10px;
@@ -1053,26 +1069,10 @@ button:focus {
   transition-duration: 0.4s;
 }
 
-.linkbutton2:hover {
+.linkbutton3:hover {
   background-color: white;
   border: 2px solid #17ca8f;
   color: #17ca8f;
-}
-.linkbutton3 {
-  background-color: #17f628;
-  font-size: 24px;
-  padding: 5px 10px;
-  color: white;
-  border: 2px solid #17f628;
-  border-radius: 50%;
-  -webkit-transition-duration: 0.4s;
-  transition-duration: 0.4s;
-}
-
-.linkbutton3:hover {
-  background-color: white;
-  border: 2px solid #17f628;
-  color: #17f628;
 }
 
 .element1 {
