@@ -866,8 +866,8 @@ footer {
   position: absolute;
   left: 50%;
   margin-left: -530px;
-  bottom: 20px;
-  text-align: right;
+  /*bottom: 20px;*/
+  text-align: center;
   line-height: 16px;
 
 }
