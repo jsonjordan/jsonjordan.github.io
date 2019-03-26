@@ -666,7 +666,7 @@ header {
   right: 0;
   width: 100%;
   text-align: center;
-  background: url(../images/background.png) #179df6;
+  background: url(../images/background.png) #5E5E5E;
   -moz-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
   -webkit-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
   -o-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
@@ -702,7 +702,7 @@ header p {
   margin-right: -382px;
   position: absolute;
   top: 115px;
-  background: #17ca8f;
+  background: #9DCBBA;
   -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   -o-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
@@ -815,7 +815,7 @@ section {
   margin: 20px 0;
   margin-top: 190px;
   position: relative;
-  background: #fff8e7;
+  background: #ffffff;
   -moz-border-radius: 3px;
   -webkit-border-radius: 3px;
   -o-border-radius: 3px;
