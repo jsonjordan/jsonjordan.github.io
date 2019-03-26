@@ -1120,6 +1120,10 @@ button:focus {
   
 }
 
+.bodytext {
+  color: #666
+}
+
 .project {
   width: 30%;
   height: 70%;
