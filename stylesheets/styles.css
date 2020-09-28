@@ -1047,7 +1047,7 @@ button:focus {
 .linkbutton1:hover {
   background-color: white;
   border: 2px solid #6D5959;
-  color: #5a7ec5;
+  color: #6D5959;
 }
 .linkbutton2 {
   background-color: #5E5E5E;
@@ -1063,7 +1063,7 @@ button:focus {
 .linkbutton2:hover {
   background-color: white;
   border: 2px solid #5E5E5E;
-  color: #39a4aa;
+  color: #5E5E5E;
 }
 .linkbutton3 {
   background-color: #9DCBBA;
@@ -1079,7 +1079,7 @@ button:focus {
 .linkbutton3:hover {
   background-color: white;
   border: 2px solid #9DCBBA;
-  color: #17ca8f;
+  color: #9DCBBA;
 }
 
 .element1 {
